@@ -1,0 +1,14 @@
+Fuente: Human521bt.
+
+colores:
+html, #container: -background-color: #999999.
+.logo: background: -moz-linear-gradient(left,#666666,#2c2c2c).
+.menu: background-color: #E95B07.
+.menu ul li: background-color: #ff5e00.
+.menu ul li:hover: background-color: #E95B07.
+div.expensas: background-color: rgba(0,0,0,0.9).
+.contenedor-expensas a.boton: background-color: #E95B07.
+a.boton:hover: background-color: #ff5e00.
+section.novedades: background-color: #ff5e00.
+.circulo:hover: background-color: #ff5e00.
+footer: background-color: #405952.
